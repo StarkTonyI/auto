@@ -58,8 +58,6 @@ useLayoutEffect(() => {
         zoom={16}
       />
 
-      <Calculate/>
-
       <Reviews/>
 
       <Contacts/>
